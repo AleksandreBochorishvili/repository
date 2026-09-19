@@ -1,0 +1,14 @@
+.header {
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+.heading { 
+    font-size: 24px;
+    font-weight: bold;
+}
+input {
+    border-radius: 25% 12px 12px 25%;
+    border: 1px solid black;
+    padding: 5px;
+    padding-left: 12px;
+}
